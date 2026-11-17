@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Seed Spacing Gauge</string>
+
+    <string name="brand_line_one">SEED SPACING</string>
+    <string name="brand_line_two">GAUGE</string>
+    <string name="splash_tagline">PLAN EVERY ROW</string>
+    <string name="splash_status">PREPARING YOUR BEDS</string>
+
+    <string name="menu_title">MY BEDS</string>
+    <string name="menu_subtitle">GARDEN BED PLANNER</string>
+    <string name="start_planning">START PLANNING</string>
+    <string name="stat_beds">BEDS</string>
+    <string name="stat_plants">PLANTS</string>
+    <string name="crop_guide">CROP GUIDE</string>
+    <string name="total_area">TOTAL AREA</string>
+    <string name="how_spacing_works">HOW SPACING WORKS</string>
+    <string name="saved_beds">SAVED BEDS</string>
+    <string name="empty_beds_title">NO BEDS YET</string>
+    <string name="empty_beds_message">MEASURE A BED AND PICK A CROP TO SEE HOW MANY PLANTS FIT.</string>
+    <string name="default_bed_name">BED %1$d</string>
+    <string name="on_hold">ON HOLD</string>
+    <string name="planned">PLANNED</string>
+
+    <string name="bed_dims_metric">%1$s x %2$s CM</string>
+    <string name="bed_dims_imperial">%1$s x %2$s IN</string>
+    <string name="bed_card_meta">%1$s · %2$s</string>
+    <string name="crop_pair">%1$s + %2$s</string>
+    <string name="area_metric">%1$s M2</string>
+    <string name="area_imperial">%1$s FT2</string>
+    <string name="value_with_unit">%1$s %2$s</string>
+    <string name="percent_value">%1$d%%</string>
+    <string name="unit_cm_short">CM</string>
+    <string name="unit_inch_short">IN</string>
+
+    <string name="bed_size_title">BED SIZE</string>
+    <string name="step_one">STEP 1 OF 2</string>
+    <string name="label_length">LENGTH</string>
+    <string name="label_width">WIDTH</string>
+    <string name="pick_crop">PICK CROP</string>
+    <string name="hint_centre_to_centre">SPACING IS MEASURED CENTRE TO CENTRE</string>
+    <string name="bed_name_label">BED NAME</string>
+    <string name="preset_small">SMALL 120x60</string>
+    <string name="preset_classic">CLASSIC 240x120</string>
+    <string name="preset_wide">WIDE 300x150</string>
+    <string name="preset_planter">PLANTER 90x40</string>
+
+    <string name="crop_picker_title">PICK A CROP</string>
+    <string name="step_two">STEP 2 OF 2</string>
+    <string name="family_root">ROOT</string>
+    <string name="family_leaf">LEAF</string>
+    <string name="family_legume">LEGUME</string>
+    <string name="family_fruit">FRUIT</string>
+    <string name="family_vine">VINE</string>
+    <string name="crop_meta">SPACING %1$s %2$s · DEPTH %3$s · %4$d DAYS</string>
+    <string name="mix_second_crop">MIX A SECOND CROP</string>
+    <string name="ratio_label">RATIO</string>
+    <string name="draw_the_bed">DRAW THE BED</string>
+    <string name="hint_tap_crop">TAP A CROP TO LOAD ITS RECOMMENDED SPACING</string>
+
+    <string name="stat_crop_a">CROP A</string>
+    <string name="stat_crop_b">CROP B</string>
+    <string name="stat_grid">ROWS x COLS</string>
+    <string name="stat_fill">FILL</string>
+    <string name="rows_by_cols">%1$d x %2$d</string>
+    <string name="legend_entry">%1$s · %2$d</string>
+    <string name="legend_count">%1$d PLANTS</string>
+    <string name="too_small">THIS BED IS TOO SMALL FOR %1$s · IT NEEDS %2$d CM PER PLANT.</string>
+    <string name="offset_rows">OFFSET ROWS</string>
+    <string name="save_bed">SAVE BED</string>
+    <string name="edit">EDIT</string>
+    <string name="verdict_room">ROOM TO SPARE</string>
+    <string name="verdict_balanced">BALANCED</string>
+    <string name="verdict_packed">PACKED TIGHT</string>
+
+    <string name="bed_saved">BED SAVED</string>
+    <string name="plants_fit">PLANTS FIT</string>
+    <string name="row_bed">BED</string>
+    <string name="row_layout">LAYOUT</string>
+    <string name="row_fill">FILL</string>
+    <string name="row_depth">SEED DEPTH</string>
+    <string name="row_days">DAYS TO HARVEST</string>
+    <string name="layout_value">%1$d ROWS x %2$d COLS</string>
+    <string name="fill_value">%1$d%% · %2$s</string>
+    <string name="depth_metric">%1$s CM</string>
+    <string name="depth_imperial">%1$s IN</string>
+    <string name="seeds_needed">SEEDS NEEDED</string>
+    <string name="plan_again">PLAN AGAIN</string>
+    <string name="add_notes">ADD NOTES</string>
+    <string name="menu">MENU</string>
+    <string name="hint_saved_local">YOUR BED IS SAVED ON THIS DEVICE</string>
+    <string name="tip_room">ROOM TO SPARE · YOU COULD SLIP A ROW OF RADISH BETWEEN THE MAIN ROWS.</string>
+    <string name="tip_balanced">BALANCED SPACING · EVERY PLANT GETS ITS FULL SHARE OF LIGHT.</string>
+    <string name="tip_packed">TIGHT BEDS DRY OUT FASTER · WATER DEEPLY TWICE A WEEK.</string>
+
+    <string name="notes_title">SOWING NOTES</string>
+    <string name="note_placeholder">SOWN 12 MAY, THINNED AFTER 3 WEEKS</string>
+    <string name="note_counter">%1$d / %2$d</string>
+    <string name="save_note">SAVE NOTE</string>
+    <string name="notes_empty">NO NOTES FOR THIS BED YET</string>
+    <string name="notes_empty_message">WRITE DOWN SOWING DATES AND THINNING SO NEXT SEASON IS EASIER.</string>
+
+    <string name="guide_title">CROP GUIDE</string>
+    <string name="guide_subtitle">SPACING AND SOWING DEPTH</string>
+    <string name="col_crop">CROP</string>
+    <string name="col_spacing">SPACING</string>
+    <string name="col_depth">DEPTH</string>
+    <string name="col_days">DAYS</string>
+    <string name="guide_footer">SPACING IS CENTRE TO CENTRE. OFFSET ROWS FIT ABOUT 15 PERCENT MORE PLANTS IN THE SAME BED.</string>
+
+    <string name="settings">SETTINGS</string>
+    <string name="units">UNITS</string>
+    <string name="unit_cm">CM</string>
+    <string name="unit_inch">INCH</string>
+    <string name="theme">THEME</string>
+    <string name="theme_light">LIGHT</string>
+    <string name="theme_dark">DARK</string>
+    <string name="theme_system">SYSTEM</string>
+    <string name="haptics">HAPTICS</string>
+    <string name="offset_default">OFFSET ROWS BY DEFAULT</string>
+    <string name="danger_zone">DANGER ZONE</string>
+    <string name="danger_hint">THIS DEVICE HOLDS %1$d SAVED BEDS.</string>
+    <string name="reset_all_beds">RESET ALL BEDS</string>
+    <string name="reset_title">RESET ALL BEDS</string>
+    <string name="reset_message">THIS REMOVES EVERY SAVED BED AND ITS NOTES FROM THIS DEVICE.</string>
+    <string name="cancel">CANCEL</string>
+    <string name="reset">RESET</string>
+    <string name="settings_footer">SEED SPACING GAUGE · OFFLINE · NO ACCOUNTS</string>
+
+    <string name="crop_radish">RADISH</string>
+    <string name="crop_carrot">CARROT</string>
+    <string name="crop_beetroot">BEETROOT</string>
+    <string name="crop_onion">ONION</string>
+    <string name="crop_spinach">SPINACH</string>
+    <string name="crop_lettuce">LETTUCE</string>
+    <string name="crop_kale">KALE</string>
+    <string name="crop_pea">PEA</string>
+    <string name="crop_bush_bean">BUSH BEAN</string>
+    <string name="crop_tomato">TOMATO</string>
+    <string name="crop_cucumber">CUCUMBER</string>
+    <string name="crop_zucchini">ZUCCHINI</string>
+
+    <string name="sample_bed_kitchen">KITCHEN DOOR BED</string>
+    <string name="sample_bed_shed">KRAFT SHED RAISED BED</string>
+    <string name="sample_bed_balcony">BALCONY PLANTER STRIP</string>
+
+    <string name="state_enabled">enabled</string>
+    <string name="state_disabled">disabled</string>
+    <string name="state_selected">selected</string>
+    <string name="state_not_selected">not selected</string>
+    <string name="state_on">on</string>
+    <string name="state_off">off</string>
+
+    <string name="cd_logo">Seed Spacing Gauge emblem</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_settings">Open settings</string>
+    <string name="cd_edit_bed">Edit this bed</string>
+    <string name="cd_bed_notes">Open sowing notes</string>
+    <string name="cd_bed_card">Bed %1$s, %2$d plants</string>
+    <string name="cd_decrease">Decrease %1$s</string>
+    <string name="cd_increase">Increase %1$s</string>
+    <string name="cd_home">Back to my beds</string>
+    <string name="cd_hold">Toggle bed hold</string>
+    <string name="cd_ratio_down">Previous mix ratio</string>
+    <string name="cd_ratio_up">Next mix ratio</string>
+    <string name="cd_delete_note">Delete note</string>
+</resources>
